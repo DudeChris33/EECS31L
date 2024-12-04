@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab3s_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="lab3s_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,995 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,002 ps"></ZoomEndTime>
+      <Cursor1Time time="999,997 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="91"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/lab3s_tb/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/Start" type="logic">
+      <obj_property name="ElementShortName">Start</obj_property>
+      <obj_property name="ObjectShortName">Start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/Rst" type="logic">
+      <obj_property name="ElementShortName">Rst</obj_property>
+      <obj_property name="ObjectShortName">Rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/Loc" type="array">
+      <obj_property name="ElementShortName">Loc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Loc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/Done" type="logic">
+      <obj_property name="ElementShortName">Done</obj_property>
+      <obj_property name="ObjectShortName">Done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/Clk_period" type="other">
+      <obj_property name="ElementShortName">Clk_period</obj_property>
+      <obj_property name="ObjectShortName">Clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Ctrl_1/Currstate" type="array">
+      <obj_property name="ElementShortName">Currstate[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Currstate[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Ctrl_1/Nextstate" type="array">
+      <obj_property name="ElementShortName">Nextstate[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Nextstate[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/R_Addr1" type="array">
+      <obj_property name="ElementShortName">R_Addr1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">R_Addr1[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/R_Addr2" type="array">
+      <obj_property name="ElementShortName">R_Addr2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">R_Addr2[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/W_Addr" type="array">
+      <obj_property name="ElementShortName">W_Addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">W_Addr[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/Reg_Data1" type="array">
+      <obj_property name="ElementShortName">Reg_Data1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_Data1[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/Reg_Data2" type="array">
+      <obj_property name="ElementShortName">Reg_Data2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_Data2[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3s_tb/uut/Reg_1/W_Data" type="array">
+      <obj_property name="ElementShortName">W_Data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">W_Data[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

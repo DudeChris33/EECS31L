@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Warning: p = 1 fail with test case 0
+Time: 132500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 0
+Time: 132500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: p = 1 fail with test case 1
+Time: 252500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 1
+Time: 252500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: p = 1 fail with test case 2
+Time: 332500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: p = 1 fail with test case 3
+Time: 412500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 3
+Time: 412500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: p = 1 fail with test case 4
+Time: 452500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 6
+Time: 612500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 7
+Time: 692500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd
+Warning: r = 1 fail with test case 8
+Time: 812500 ps  Iteration: 0  Process: /lab2s_tb/stim_proc  File: C:/Xilinx/VendingMachine2/VendingMachine2.srcs/sources_1/imports/EECS31L/lab2s_tb.vhd

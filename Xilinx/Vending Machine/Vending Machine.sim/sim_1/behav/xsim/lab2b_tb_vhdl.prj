@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Vending Machine.srcs/sources_1/imports/EECS31L/lab2b.vhd" \
+"../../../../Vending Machine.srcs/sources_1/imports/EECS31L/lab2b_tb.vhd" \
+
+# Do not sort compile order
+nosort

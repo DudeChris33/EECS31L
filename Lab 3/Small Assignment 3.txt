@@ -1,0 +1,16 @@
+Chris Cyr
+12436037
+
+1.	Cnt_s: C'
+	Cnt_d: CD
+	Cnt_ld: C
+
+2.	Add2_1: A(1 downto 0), B(1 downto 0), Cin, F(1 downto 0), C
+	Add2_2: A(3 downto 2), B(3 downto 2), C, F(3 downto 2), Cout
+
+3.	Line 27: ReadProcess: PROCESS(R_en, R_Addr, regArray)
+
+4.	State	Rst	Cnt	Ld	Done
+	Off	1	0	0	0
+	Sum	0	1	1	0
+	Output0	0	0	1
